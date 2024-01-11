@@ -14,6 +14,8 @@ class Main {
 
     examScores.put("Religion",99);
 
+    examScores.put("Philosophy",82);
+
     
     System.out.println(examScores.toString());
     
